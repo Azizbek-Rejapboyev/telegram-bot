@@ -1,1 +1,1 @@
-print("Azizbek Rejapboyev")
+print("Azizbek")
